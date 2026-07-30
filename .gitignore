@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+health-dashboard/node_modules/
+health-dashboard/.next/
+health-dashboard/build/
